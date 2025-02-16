@@ -1,3 +1,4 @@
 # gitlearn
+
 Learing git hub
-Author-Ajaruddin
+Author-Ajaruddin H Mulimani
